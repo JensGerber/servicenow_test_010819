@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Assignee</name>
+        <parent>4a6c93f4dbcbf3005526c4c1159619a2</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-01 17:57:31</sys_created_on>
+        <sys_id>231d9fb4dbcbf3005526c4c1159619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignee</sys_name>
+        <sys_package display_value="Caller Info from Incident" source="x_scbgh_caller_inf">28604fb0db8bf3005526c4c115961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Caller Info from Incident">28604fb0db8bf3005526c4c115961917</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_231d9fb4dbcbf3005526c4c1159619ff</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-01 17:57:31</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

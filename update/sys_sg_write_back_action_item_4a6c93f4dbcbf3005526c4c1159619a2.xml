@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Assigned to</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-01 17:56:25</sys_created_on>
+        <sys_id>4a6c93f4dbcbf3005526c4c1159619a2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assigned to</sys_name>
+        <sys_package display_value="Caller Info from Incident" source="x_scbgh_caller_inf">28604fb0db8bf3005526c4c115961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Caller Info from Incident">28604fb0db8bf3005526c4c115961917</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_4a6c93f4dbcbf3005526c4c1159619a2</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-01 18:32:35</sys_updated_on>
+        <table>sn_customerservice_case</table>
+        <template>assigned_to={{Assignee}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>
